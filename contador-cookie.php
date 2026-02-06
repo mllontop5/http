@@ -9,3 +9,4 @@ if(isset($_COOKIE['count'])){
 
 setcookie('count',$count);
 echo $count;
+?>
